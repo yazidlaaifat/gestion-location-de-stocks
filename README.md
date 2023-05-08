@@ -1,5 +1,5 @@
-# gestion-location-de-stocks
-projet gestion location de stock
+# gestion-location-de-voiture
+projet gestion location de voiture
 
 
 J'ai tout d'abord commencé par réfléchir à un projet gestion de location de voiture.. Ce programme aurai été capable d'analyser de ajouter et modifie et supprime textuelles dans une interface graphique python (Tkinter) et Utilisation d'une base de données relationnelle sqlite pour stocker les informations sur les voitures et les utilisateurs
